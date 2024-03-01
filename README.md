@@ -16,7 +16,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Create a conda environment                  | https://github.com/jwa7/practical-programming-in-chemistry-milestones/blob/update-readme/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/jwa7/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/jwa7/practical-programming-in-chemistry-milestones/pull/1 |
-| 2    | (Optional) Review a Pull Request            | |
+| 2    | (Optional) Review a Pull Request            | https://github.com/schwallergroup/practical-programming-in-chemistry-exercises/pull/3 |
 
 **More milestones will be added throughout the course.**
 
